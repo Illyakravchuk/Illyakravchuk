@@ -1,5 +1,5 @@
 <code>🎓 Student: KPI</code>
-<code>⚪ Group: IM-13</code>
+<code>🎪 Group: IM-13</code>
 <code>👷 Speciality: Software engineer </code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](https://github.com/Illyakravchuk/supergame)</code>
