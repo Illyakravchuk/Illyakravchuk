@@ -21,10 +21,10 @@
 | 🟦 lexical scope     | 🟩 try..catch         | 🟩 chaining           | 🟨 typed arrays     | 🟩 dead code         |
 | 🟩 code block        | 🟩 equality operators | 🟦 higher order       | 🟩 Map              | 🟩 unreachable code  |
 | 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟩 Set              | 🟩 duplicate code    |
-| 🟩 this              | 🟩 bitwise operators  | 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
-| 🟩 arrow function    | 🟩 break, continue    | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
+| 🟩 this              | 🟩 bitwise operators  | 🟦 listener           | ⬜️ weak collections | 🟩 exception         |
+| 🟩 arrow function    | 🟩 break, continue    | ⬜️ pipe               | ⬜️ Proxy            | 🟩 return early      |
 | 🟨 generator         | 🟩 switch             | 🟩 memoize            | ⬜️ Symbol           | 🟩 linter            |
-| 🟩 async function    | 🟩 new Error          | 🟦 factory            | 🟩 string parsing   | ⬜️ prettier          |
+| 🟩 async function    | 🟩 new Error          | 🟦 factory            | 🟩 string parsing   | 🟩 prettier          |
 | 🟨 call, bind, apply |                       | 🟦 pool               | 🟨 timers           | 🟦 unittest          |
 | 🟩 Array             |                       | 🟦 wrapper            | 🟨 EventEmitter     | 🟩 git               |
 | 🟩 instanceof        |                       | 🟩 default parameters | 🟨 RegExp           | 🟩 github            |
@@ -40,7 +40,7 @@
 | 🟩 Imperative programming      | 🟩 new                | ⬜ Mutable state     |                          |
 | 🟩 Structured programming      | 🟩 Static method      | ⬜ Immutable state   |                          |
 | 🟦 Non-structured programming  | 🟩 Method             | ⬜ Enum              |                          |
-| 🟦 Functional programming      | 🟦 Async method       | 🟦 Linked list       |                          |
+| 🟦 Functional programming      | 🟩 Async method       | 🟦 Linked list       |                          |
 | 🟦 Prototype-based programming | 🟩 Getters, Setters   | 🟦 Doubly list       |                          |
 | 🟩 Object-oriented programming | 🟩 Public fields      | 🟦 Unrolled list     |                          |
 | ⬜ Object-based programming    | 🟩 Private fields     | 🟦 Circular list     |                          |
